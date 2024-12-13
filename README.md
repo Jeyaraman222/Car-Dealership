@@ -43,7 +43,7 @@ The database contains the following tables:
 ## Setup Instructions
 1. Install MySQL on your system.
 2. Clone or download this repository.
-3. Open the SQL file (`prject sql.sql`) in a MySQL client or editor.
+3. Open the SQL file (`project sql.sql`) in a MySQL client or editor.
 4. Execute the file to create the database and tables.
 5. (Optional) Populate the tables with sample data for testing.
 
